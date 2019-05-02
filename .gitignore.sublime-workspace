@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".git/COMMIT_EDITMSG",
-			"settings":
-			{
-				"buffer_size": 680,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -53,8 +44,8 @@
 	],
 	"file_history":
 	[
-		"/C/Users/mikis/.gitconfig",
 		"/C/Users/mikis/Development/Course/python-api-app/.git/COMMIT_EDITMSG",
+		"/C/Users/mikis/.gitconfig",
 		"/C/Users/mikis/Development/Course/python-api-app/Dockerfile",
 		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201966.txt",
 		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201965.txt",
@@ -229,37 +220,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".git/COMMIT_EDITMSG",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 680,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								23,
-								23
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Git Formats/Git Commit.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
