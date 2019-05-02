@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201966.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201965.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201964.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201963.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201962.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201961.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201960.txt",
+		"/D/WWW/rastko.rs/cms/app/views/layouts/matica_aforizmi.php",
+		"/D/WWW/rastko.rs/cms/app/views/layouts/matica_medicina.ctp",
+		"/D/WWW/rastko.rs/cms/app/views/layouts/matica_aforizmi.ctp",
+		"/D/Temp/rastko_net_-20151001/home/rastko/www/rastko.net/bak/kashubi_2015-10-01_05h00m.October.kashubi.sql",
+		"/D/WWW/rastko.rs/knjizevnost/aforizmi/index.php",
+		"/D/WWW/rastko.rs/knjizevnost/aforizmi/autori.php",
+		"/D/WWW/rastko.rs/knjizevnost/aforizmi/novo.php",
+		"/D/WWW/rastko.rs/lib/classes.php",
+		"/D/WWW/rastko.rs/knjizevnost/aforizmi/sadrzaj.php",
+		"/D/Dropbox/Apps/EcoStruxureIT.txt",
+		"/D/WWW/rastko.rs/index.php",
+		"/D/Dropbox/WWW/signet.rs/leap/pages/home-signet-hosting.html",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201959.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201958.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201957.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/201956.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201956.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201955.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201954.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201953.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201952.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201951.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201950.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201949.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201948.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201947.txt",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/16_scCG.csv",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201946.txt",
+		"/C/Users/mikis/Desktop/index.tpl.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201945.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201944.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201943.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201942.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201941.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201940.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201939.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201938.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201937.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201936.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201935.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201934.txt",
+		"/C/Users/mikis/Desktop/1755268.crt",
+		"/D/Dropbox/Partneri/RNIDS/EPP/eppConnection.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201933.txt",
+		"/D/Dropbox/WWW/haftnotiz.ch/contact.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201932.txt",
+		"/D/Dropbox/Partneri/RNIDS/EPP/rsreg/rsreg-client/Registries/rnidsEppConnection/eppConnection.php",
+		"/C/Users/mikis/Documents/dbtest.log",
+		"/D/WWW/signet.rs/eppConnection.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201931.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201930.txt",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/_imported/all.csv",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/_imported/14_scbeograd_pr.csv",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201929.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201928.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201927.txt",
+		"/C/Users/mikis/Desktop/123.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201922.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201921.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201920.txt",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/_done/Scns-Produzene-2018.csv",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2017-18/_imported/SC Beograd/sc-beograd-2017.csv",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2016-17/beograd-2016.csv",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/_produžene/SC_Beograd_Produzenja.csv",
+		"/D/Dropbox/Klijenti/GPA/Spiskovi/2018-19/_produžene/Scns Produzene-2018.csv",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201919.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201918.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201917.txt",
+		"/D/Downloads/whmcs_v770_full/whmcs/.htaccess",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201916.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201915.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201914.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201913.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201912.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201911.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201910.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/20199.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/20198.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/20197.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/20194.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/20196.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/20195.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/20193.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/20192.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/20191.txt",
+		"/D/Dropbox/Klijenti/1.csv",
+		"/D/Dropbox/Klijenti/5.csv",
+		"/D/Dropbox/Klijenti/4.csv",
+		"/D/Dropbox/Klijenti/3.csv",
+		"/D/Dropbox/Klijenti/2.csv",
+		"/D/Dropbox/signet/izvodi/RFB RSD/2018177.txt",
+		"/C/Users/mikis/Desktop/sn.txt",
+		"/C/Users/mikis/Downloads/backup-thu-dec-06-14_36_35-2018/mysql/slovosla_382.sql",
+		"/C/Users/mikis/Desktop/poslovi.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018176.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018175.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018174.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018173.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018172.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018171.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018170.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018169.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018168.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018167.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018166.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/2018165.txt",
+		"/D/Dropbox/signet/izvodi/RFB RSD/2018164.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018162.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018161.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018160.txt",
+		"/C/Users/mikis/AppData/Local/Temp/_tc/signet-host2/style.css",
+		"/C/Users/mikis/AppData/Local/Temp/_tc/signet-host2/functions.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018157.txt",
+		"/L/MS/exchange2016.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018156.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018155.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018154.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018153.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018152.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018151.txt",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018150.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"31.12.2019",
+			"dimmon",
+			"??:??: auth",
+			" cp02.signetics.net dovecot[16569]",
+			"Feb 07 08:",
+			"sku",
+			"Table:",
+			"Upozorenje: \"Raèun kupca u banci\" ne postoji.   Br. kupca: 265-63",
+			"novo",
+			"overlay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"31.10.2019",
+			"auth",
+			"",
+			"\\nTable:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".gitignore.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
