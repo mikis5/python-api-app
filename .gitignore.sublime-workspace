@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Yoast WooCommerce SEO\n",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows",
+				"name": "Yoast WooCommerce SEO"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,7 +53,15 @@
 	],
 	"file_history":
 	[
+		"/D/WWW/bizu.rs/tomato/tomato/woocommerce/content-widget-product.php",
+		"/D/WWW/bizu.rs/wp-content/themes/tomato/woocommerce/content-widget-product.php",
+		"/D/WWW/bizu.rs/wp-content/themes/tomato/woocommerce/content-single-product.php",
+		"/D/WWW/bizu.rs/tomato/tomato/woocommerce/content-single-product.php",
+		"/D/WWW/bizu.rs/wp-content/themes/tomato-child/assets/css/custom.css",
+		"/D/WWW/bizu.rs/tomato/tomato/404.php",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201968.txt",
 		"/C/Users/mikis/Development/Course/python-api-app/.git/COMMIT_EDITMSG",
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201967.txt",
 		"/C/Users/mikis/.gitconfig",
 		"/C/Users/mikis/Development/Course/python-api-app/Dockerfile",
 		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/201966.txt",
@@ -163,15 +180,7 @@
 		"/D/Dropbox/signet/izvodi/RFB RSD/2018164.txt",
 		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018162.txt",
 		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018161.txt",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018160.txt",
-		"/C/Users/mikis/AppData/Local/Temp/_tc/signet-host2/style.css",
-		"/C/Users/mikis/AppData/Local/Temp/_tc/signet-host2/functions.php",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018157.txt",
-		"/L/MS/exchange2016.txt",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018156.txt",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018155.txt",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018154.txt",
-		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018153.txt"
+		"/C/RAIFFEISENBANK/RB_4120087641/PrihvaceniIzvodi/265104031000004326/2018160.txt"
 	],
 	"find":
 	{
@@ -220,8 +229,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Yoast WooCommerce SEO",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
